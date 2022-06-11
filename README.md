@@ -4,8 +4,12 @@
 <div id="badges" align="center">
   <a href="https://t.me/flowchik1337">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</div>
+<div>
+  <h3>👨‍💻 Languages</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c++/c++-original-wordmark.svg" width="30" height="30"/>
+  
 </div>
