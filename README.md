@@ -21,3 +21,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30"/>
 </div>
 
+<iframe src="https://discord.com/widget?id=987329943400771594&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
